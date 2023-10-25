@@ -1,0 +1,2 @@
+this is data.txt file
+created for demonstration of file operations
